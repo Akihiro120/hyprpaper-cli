@@ -1,11 +1,11 @@
-# Hyprpaper CLI
-*A command-line tool for managing wallpapers on Hyprland using Hyprpaper.*
+# Wallpaper CLI
+*A command-line tool for managing wallpapers on Hyprland using SWWW*
 
 ## Overview
 
 - ✅**Set Specific Wallpaper** - Apply a wallpaper instantly using the CLI.
 - ✅**Random Wallpaper Selection** - Pick a random wallpaper from a user-defined pool.
-- ✅**Minimal Dependencies** - Requires only 'python' and 'hyprpaper'.
+- ✅**Minimal Dependencies** - Requires only 'python' and 'swww'.
 - ✅**Simple & Modular** - Clean and maintainable Python codebase.
 
 ---
@@ -14,8 +14,8 @@
 ## 🔹 Manual Installation
 1. Clone the repository:
 ``` bash
-git clone https://github.com/Akihiro120/hyprpaper-cli
-cd hyprpaper-cli
+git clone https://github.com/Akihiro120/wallpaper-cli
+cd wallpaper-cli
 ```
 2. Build and install the package using `makepkg`:
 ``` bash
@@ -24,7 +24,7 @@ makepkg -si
 
 ---
 ## 🖥️ Usage
-Once installed, you can run hyprpaper-cli directory from the terminal.
+Once installed, you can run wallpaper-cli directory from the terminal.
 
 ---
 ## 🔧 Contributing

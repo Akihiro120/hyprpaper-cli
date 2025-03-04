@@ -1,1 +1,0 @@
-/home/akihiro/hyprpaper-cli/hyprpaper-cli.py
