@@ -26,6 +26,45 @@ makepkg -si
 ## 🖥️ Usage
 Once installed, you can run wallpaper-cli directory from the terminal.
 
+**Add Picture**
+``` bash
+wallpaper-cli --add "filepath/to/picture"
+```
+
+**Remove Picture**
+``` bash
+wallpaper-cli --remove index
+```
+
+**Set Picture**
+``` bash
+wallpaper-cli --set index
+```
+
+**Display Pictures**
+``` bash
+wallpaper-cli --display
+```
+
+**Prev**
+``` bash
+wallpaper-cli --prev
+```
+
+**Next**
+``` bash
+wallpaper-cli --next
+```
+
+**Toggle Cycle**
+``` bash
+wallpaper-cli --togglecycle
+```
+**Enable Cycle Feature**
+``` bash
+wallpaper-cli --enablecycle
+```
+
 ---
 ## 🔧 Contributing
 Contributions are welcome! Follow these steps:
