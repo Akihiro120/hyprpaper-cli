@@ -4,8 +4,11 @@
 ## Overview
 
 ✅**Set Specific Wallpaper** - Apply a wallpaper instantly using the CLI.
+
 ✅**Random Wallpaper Selection** - Pick a random wallpaper from a user-defined pool.
+
 ✅**Minimal Dependencies** - Requires only 'python' and 'hyprpaper'.
+
 ✅**Simple & Modular** - Clean and maintainable Python codebase.
 
 ---
