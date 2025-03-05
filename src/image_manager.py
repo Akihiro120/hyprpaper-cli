@@ -64,7 +64,8 @@ class ImageManager:
     def add_picture(self, image_path):
         # add and save the image pool
         # first check if the image is valid
-        if os.path.isfile(image_path):
+        path = os.path.expanduser(image_path);
+        if os.path.isfile(path):
             if image_path not in self.image_pool:
                 self.image_pool.append(image_path);
                 self.save_image_pool();

@@ -6,9 +6,9 @@ xdata = pkgtype=pkg
 pkgver = 1.0-1
 pkgdesc = A CLI tool to manipulate SWWW
 url = https://github.com/Akihiro120/wallpaper-cli
-builddate = 1741088159
+builddate = 1741157513
 packager = Unknown Packager
-size = 18506
+size = 18547
 arch = any
 license = GPL
 depend = python
